@@ -1,0 +1,902 @@
+Tm,Name,Pos,Age,Proj PA,Proj IP,Service Time,Options or R5 Status,Projected Opening Day Status,Salary
+ARI,Ketel Marte,CF,27.5,630,,4.162,1,Lineup Regular,6400000
+ARI,Eduardo Escobar,3B,32.2,602,,8.128,n/a,Lineup Regular,7666667
+ARI,David Peralta,LF,33.6,518,,6.12,n/a,Lineup Regular,7500000
+ARI,Nick Ahmed,SS,31,504,,6.054,n/a,Lineup Regular,7875000
+ARI,Christian Walker,1B,30,406,,2.124,0,Lineup Regular,619300
+ARI,Carson Kelly,C,26.7,397,,2.161,1,Lineup Regular,1700000
+ARI,Josh Rojas,2B,26.8,560,,0.152,2,Platoon vs R,582400
+ARI,Pavin Smith,RF,25.1,497,,0.05,3,Platoon vs R,574600
+ARI,Asdrúbal Cabrera,INF,35.4,266,,13.027,n/a,Platoon vs L,1750000
+ARI,Tim Locastro,OF,28.7,147,,2.01,1,Platoon vs L,589100
+ARI,Madison Bumgarner,SP,31.7,,184,10.127,n/a,Starting Rotation,19000000
+ARI,Merrill Kelly,SP,32.5,,171,2,3,Starting Rotation,4250000
+ARI,Luke Weaver,SP,27.6,,140,3.112,2,Starting Rotation,1950000
+ARI,Caleb Smith,SP,29.7,,65,3.078,3,Starting Rotation,1465000
+ARI,Taylor Widener,SP,26.4,,65,1,3,Starting Rotation,583400
+ARI,Josh VanMeter,INF/OF,26.1,280,,1.076,1,Bench,583400
+ARI,Stephen Vogt,C/OF,36.4,205,,7.064,n/a,Bench,3500000
+ARI,Wyatt Mathisen,INF,27.3,,,0.061,2,Bench,570500
+ARI,Taylor Clarke,RP,27.9,,60,1.12,2,Closer,601800
+ARI,Kevin Ginkel,RP,27,,36,1.023,3,Closer,570500
+ARI,Stefan Crichton,RP,29.1,,,1.115,0,Closer,570500
+ARI,Joakim Soria,RP,36.9,,,14,n/a,Closer,3500000
+ARI,Alex Young,RP,27.6,,26,1.095,3,Middle Reliever,570500
+ARI,Yoan López,RP,28.2,,20,2.011,3,Middle Reliever,570500
+ARI,Chris Devenski,RP,30.4,,,5,n/a,Middle Reliever,1000000
+ARI,Riley Smith,RP,26.2,,22,0.097,2,Long Reliever,570500
+ARI,Zac Gallen,SP,25.7,,178,1.1,3,10-Day IL,607500
+ARI,Tyler Clippard,RP,36.1,,60,11.134,n/a,60-Day IL,1750000
+ARI,Kole Calhoun,OF,33.5,441,,7.13,n/a,10-Day IL,8000000
+ATL,Freddie Freeman,1B,31.6,686,,10.033,n/a,Lineup Regular,22359375
+ATL,Austin Riley,3B,24,665,,1.138,3,Lineup Regular,590500
+ATL,Ozzie Albies,2B,24.2,665,,3.062,3,Lineup Regular,3000000
+ATL,Dansby Swanson,SS,27.1,665,,4.047,3,Lineup Regular,6000000
+ATL,Ronald Acuña Jr.,RF,23.3,525,,2.159,3,Lineup Regular,5000000
+ATL,Travis d'Arnaud,C,32.1,439,,7.044,n/a,Lineup Regular,8000000
+ATL,Marcell Ozuna,LF,30.4,315,,7.124,n/a,Lineup Regular,12000000
+ATL,Cristian Pache,CF,22.4,231,,0.022,2,Lineup Regular,570500
+ATL,Max Fried,SP,27.2,,185,2.148,1,Starting Rotation,3500000
+ATL,Charlie Morton,SP,37.4,,169,12.01,n/a,Starting Rotation,15000000
+ATL,Ian Anderson,SP,22.9,,166,0.094,3,Starting Rotation,575500
+ATL,Drew Smyly,SP,31.8,,121,8.143,n/a,Starting Rotation,11000000
+ATL,Ehire Adrianza,INF/OF,31.6,196,,6.131,n/a,Bench,1500000
+ATL,Ender Inciarte,OF,30.4,154,,6.157,n/a,Bench,8700000
+ATL,Alex Jackson,C,25.3,128,,0.076,1,Bench,570500
+ATL,Pablo Sandoval,1B/3B,34.6,,,12.012,n/a,Bench,1000000
+ATL,Will Smith (P),RP,31.7,,70,7.155,n/a,Closer,13000000
+ATL,Chris Martin,RP,34.8,,57,3.133,1,Closer,7000000
+ATL,Tyler Matzek,RP,30.5,,68,2.019,0,Setup Man,600500
+ATL,A.J. Minter,RP,27.6,,62,2.162,2,Setup Man,1300000
+ATL,Luke Jackson,RP,29.6,,66,4.019,0,Middle Reliever,1800000
+ATL,Sean Newcomb,RP,27.8,,40,2.166,1,Middle Reliever,600500
+ATL,Grant Dayton,RP,33.3,,,4.007,0,Middle Reliever,900000
+ATL,Nate Jones,RP,35.2,,,9,n/a,Middle Reliever,570500
+ATL,Huascar Ynoa,RP,22.8,,124,0.141,1,Long Reliever,580500
+ATL,Josh Tomlin,RP,36.4,,42,10.033,n/a,Long Reliever,1000000
+ATL,Mike Soroka,SP,23.7,,102,2.146,2,10-Day IL,2800000
+ATL,Touki Toussaint,SP/RP,24.8,,58,1.065,1,60-Day IL,590500
+BAL,Trey Mancini,DH,29,644,,4.015,3,Lineup Regular,4750000
+BAL,Ryan Mountcastle,1B,24.1,630,,0.105,2,Lineup Regular,574500
+BAL,Austin Hays,LF,25.7,588,,1.057,1,Lineup Regular,578500
+BAL,Anthony Santander,RF,26.5,560,,2.162,1,Lineup Regular,2100000
+BAL,Ramón Urías,2B,26.8,539,,0.047,1,Lineup Regular,571500
+BAL,Freddy Galvis,SS,31.4,469,,8.021,n/a,Lineup Regular,1750000
+BAL,Maikel Franco,3B,28.6,238,,5.157,n/a,Lineup Regular,800000
+BAL,Cedric Mullins,CF,26.5,658,,1.075,2,Platoon vs R,577000
+BAL,Pedro Severino,C,27.7,205,,3.099,0,Platoon vs L,1825000
+BAL,Chance Sisco,C,26.1,77,,2.103,1,Platoon vs R,570500
+BAL,Pat Valaika,INF/OF,28.6,,,3.079,1,Platoon vs L,875000
+BAL,John Means,SP,27.9,,181,2.007,3,Starting Rotation,593500
+BAL,Bruce Zimmermann,SP,26.1,,138,0.031,3,Starting Rotation,570500
+BAL,Matt Harvey,SP,32,,108,7.127,n/a,Starting Rotation,1000000
+BAL,Dean Kremer,SP,25.2,,71,0.053,2,Starting Rotation,570500
+BAL,Jorge López,SP,28.1,,56,2.102,0,Starting Rotation,586750
+BAL,Rio Ruiz,INF,26.9,,,2.109,2,Bench,570500
+BAL,Cole Sulser,RP,31.1,,66,1.028,3,Closer,574500
+BAL,Tanner Scott,RP,26.7,,60,2.059,1,Closer,580000
+BAL,Dillon Tate,RP,26.9,,58,1.048,2,Closer,574500
+BAL,César Valdez,RP,36,,,1.06,0,Closer,570500
+BAL,Wade LeBlanc,RP,36.6,,60,7.131,n/a,Middle Reliever,90811
+BAL,Paul Fry,RP,28.7,,52,2.096,3,Middle Reliever,581000
+BAL,Adam Plutko,RP,29.5,,,2.063,0,Middle Reliever,570500
+BAL,Tyler Wells,RP,26.6,,64,0,3,Long Reliever,570500
+BAL,Mac Sceroler,RP,26,,,0,3,Long Reliever,570500
+BAL,Hunter Harvey,RP,26.3,,44,1.047,1,60-Day IL,574000
+BAL,DJ Stewart,OF,27.3,224,,1.065,1,10-Day IL,577000
+BAL,Chris Davis,1B,35,,,11.061,n/a,60-Day IL,23000000
+BAL,Shawn Armstrong,RP,30.6,,,3.028,0,Paternity List,825000
+BOS,Rafael Devers,3B,24.4,665,,3.07,3,Lineup Regular,4575000
+BOS,Xander Bogaerts,SS,28.5,665,,7.042,n/a,Lineup Regular,20000000
+BOS,J.D. Martinez,DH,33.6,644,,9.036,n/a,Lineup Regular,19375000
+BOS,Enrique Hernández,2B,29.6,644,,6.054,n/a,Lineup Regular,6000000
+BOS,Bobby Dalbec,1B,25.8,602,,0.081,2,Lineup Regular,575000
+BOS,Alex Verdugo,CF,24.9,602,,2.078,2,Lineup Regular,649500
+BOS,Hunter Renfroe,RF,29.2,567,,3.165,2,Lineup Regular,3100000
+BOS,Christian Vázquez,C,30.6,371,,6.031,n/a,Lineup Regular,6250000
+BOS,Christian Arroyo,INF,25.8,392,,2.036,0,Platoon vs L,581500
+BOS,Franchy Cordero,LF,26.6,21,,3.038,2,Platoon vs R,800000
+BOS,Nathan Eovaldi,SP,31.1,,183,9.013,n/a,Starting Rotation,17000000
+BOS,Nick Pivetta,SP,28.1,,162,2.166,0,Starting Rotation,613500
+BOS,Garrett Richards,SP,32.8,,139,8.148,n/a,Starting Rotation,8500000
+BOS,Martín Pérez,SP,30,,120,8.038,n/a,Starting Rotation,4500000
+BOS,Tanner Houck,SP,24.8,,109,0.036,3,Starting Rotation,577000
+BOS,Marwin Gonzalez,INF/OF,32,357,,8.133,n/a,Bench,3000000
+BOS,Kevin Plawecki,C/1B,30.1,264,,4.167,1,Bench,1600000
+BOS,Matt Barnes,RP,30.8,,66,5.11,n/a,Closer,4500000
+BOS,Adam Ottavino,RP,35.4,,68,9.087,n/a,Setup Man,9000000
+BOS,Matt Andriese,RP,31.6,,42,5.071,n/a,Setup Man,1850000
+BOS,Josh Taylor,RP,28.1,,60,1.121,2,Middle Reliever,580500
+BOS,Hirokazu Sawamura,RP,33,,56,0,3,Middle Reliever,1200000
+BOS,Darwinzon Hernandez,RP,24.3,,52,1.08,2,Middle Reliever,578500
+BOS,Phillips Valdez,RP,29.4,,44,1.04,2,Middle Reliever,570500
+BOS,Austin Brice,RP,28.8,,,3.101,0,Middle Reliever,870000
+BOS,Garrett Whitlock,RP,24.8,,68,0,3,Long Reliever,570500
+BOS,Eduardo Rodriguez,SP,28,,187,5.13,n/a,10-Day IL,8300000
+BOS,Chris Sale,SP,32,,171,10.061,n/a,60-Day IL,30000000
+BOS,Ryan Brasier,RP,33.6,,64,3.109,1,10-Day IL,1250000
+CHC,Ian Happ,CF,26.6,637,,3.036,2,Lineup Regular,4100000
+CHC,Kris Bryant,3B,29.2,602,,5.171,n/a,Lineup Regular,19500000
+CHC,Anthony Rizzo,1B,31.6,595,,8.168,n/a,Lineup Regular,16500000
+CHC,Javier Báez,SS,28.3,581,,5.089,n/a,Lineup Regular,11650000
+CHC,Joc Pederson,LF,28.9,532,,6.028,n/a,Lineup Regular,4500000
+CHC,Willson Contreras,C,28.9,521,,4.108,2,Lineup Regular,6650000
+CHC,David Bote,2B,28,266,,2.1,2,Lineup Regular,1010000
+CHC,Jason Heyward,RF,31.6,448,,11,n/a,Platoon vs R,21000000
+CHC,Jake Marisnick,OF,30,231,,6.132,n/a,Platoon vs L,1000000
+CHC,Kyle Hendricks,SP,31.3,,186,6.081,n/a,Starting Rotation,14000000
+CHC,Zach Davies,SP,28.1,,153,5.02,n/a,Starting Rotation,8630000
+CHC,Adbert Alzolay,SP,26.1,,144,0.05,1,Starting Rotation,573000
+CHC,Jake Arrieta,SP,35.1,,92,9.145,n/a,Starting Rotation,4000000
+CHC,Trevor Williams,SP,28.9,,85,4.027,3,Starting Rotation,2500000
+CHC,Matt Duffy,INF,30.2,266,,5.059,n/a,Bench,1000000
+CHC,Eric Sogard,INF/OF,34.9,168,,8.134,n/a,Bench,1000000
+CHC,Tony Wolters,C,28.8,90,,4.161,1,Bench,570500
+CHC,Craig Kimbrel,RP,32.8,,66,9.161,n/a,Closer,16000000
+CHC,Andrew Chafin,RP,30.8,,70,6.02,n/a,Setup Man,2250000
+CHC,Ryan Tepera,RP,33.4,,66,5.008,n/a,Setup Man,800000
+CHC,Jason Adam,RP,29.7,,48,1.081,2,Middle Reliever,570500
+CHC,Dan Winkler,RP,31.2,,46,5.063,n/a,Middle Reliever,900000
+CHC,Brandon Workman,RP,32.6,,37,6.051,n/a,Middle Reliever,1000000
+CHC,Dillon Maples,RP,28.9,,36,0.136,0,Middle Reliever,570500
+CHC,Rex Brothers,RP,33.3,,35,4.163,1,Middle Reliever,850000
+CHC,Alec Mills,RP,29.3,,142,1.097,0,Long Reliever,600000
+CHC,Rowan Wick,RP,28.4,,64,1.114,1,10-Day IL,593000
+CHC,Austin Romine,C,32.4,141,,7.045,n/a,10-Day IL,1500000
+CHC,Jonathan Holder,RP,27.8,,,3.124,1,10-Day IL,750000
+CHW,José Abreu,1B,34.2,665,,7,n/a,Lineup Regular,17666667
+CHW,Tim Anderson,SS,27.8,665,,4.115,3,Lineup Regular,7250000
+CHW,Yoán Moncada,3B,25.8,644,,3.106,2,Lineup Regular,6800000
+CHW,Luis Robert,CF,23.7,644,,1,3,Lineup Regular,3500000
+CHW,Nick Madrigal,2B,24,560,,0.164,3,Lineup Regular,584000
+CHW,Yasmani Grandal,C,32.4,539,,8.115,n/a,Lineup Regular,18250000
+CHW,Andrew Vaughn,LF,23,497,,0,3,Lineup Regular,570500
+CHW,Adam Eaton,RF,32.3,252,,8.03,n/a,Lineup Regular,6000000
+CHW,Leury García,INF/OF,30,504,,6.025,n/a,Platoon vs L,3500000
+CHW,Zack Collins,DH,26.1,77,,0.152,1,Platoon vs R,575000
+CHW,Lance Lynn,SP,33.9,,187,9.119,n/a,Starting Rotation,9333333
+CHW,Lucas Giolito,SP,26.7,,184,3.08,1,Starting Rotation,4150000
+CHW,Dylan Cease,SP,25.3,,170,1.089,2,Starting Rotation,600000
+CHW,Carlos Rodón,SP,28.3,,163,5.168,n/a,Starting Rotation,3000000
+CHW,Dallas Keuchel,SP,33.2,,161,8.031,n/a,Starting Rotation,18000000
+CHW,Jake Lamb,3B/1B,30.5,224,,6.053,n/a,Bench,1000000
+CHW,Billy Hamilton,OF,30.6,140,,7.009,n/a,Bench,1000000
+CHW,Yermín Mercedes,C/INF,28.1,,,0.008,2,Bench,570500
+CHW,Liam Hendriks,RP,32.1,,68,6.164,n/a,Closer,11333333
+CHW,Aaron Bummer,RP,27.5,,64,2.15,1,Setup Man,2000000
+CHW,Evan Marshall,RP,31,,,4.09,0,Setup Man,2000000
+CHW,Garrett Crochet,RP,21.8,,69,0.028,3,Middle Reliever,572000
+CHW,Codi Heuer,RP,24.7,,68,1,3,Middle Reliever,585000
+CHW,José Ruiz,RP,26.4,,60,1.048,0,Middle Reliever,575000
+CHW,Matt Foster,RP,26.2,,40,0.169,3,Middle Reliever,570500
+CHW,Michael Kopech,RP,24.9,,115,1.041,3,Long Reliever,570500
+CHW,Jace Fry,RP,27.7,,40,3.005,2,10-Day IL,862500
+CHW,Eloy Jiménez,OF,24.3,630,,2,2,60-Day IL,4333333
+CHW,Adam Engel,OF,29.3,378,,3.058,1,10-Day IL,1375000
+CHW,Jimmy Cordero,RP,29.5,,,1.136,1,60-Day IL,570500
+CIN,Nick Castellanos,RF,29.1,651,,7.029,n/a,Lineup Regular,16000000
+CIN,Joey Votto,1B,37.5,644,,13.027,n/a,Lineup Regular,25000000
+CIN,Jonathan India,2B,24.3,644,,0,3,Lineup Regular,570500
+CIN,Jesse Winker,LF,27.6,574,,3.08,2,Lineup Regular,3150000
+CIN,Eugenio Suárez,SS,29.7,532,,6.061,n/a,Lineup Regular,10785714
+CIN,Mike Moustakas,3B,32.6,392,,9.111,n/a,Lineup Regular,14000000
+CIN,Nick Senzel,CF,25.8,182,,1.15,3,Lineup Regular,580500
+CIN,Tyler Stephenson,C/1B,24.6,443,,0.056,2,Platoon vs L,570500
+CIN,Tucker Barnhart,C,30.2,371,,6.075,n/a,Platoon vs R,4187500
+CIN,Luis Castillo,SP,28.3,,195,3.101,2,Starting Rotation,4200000
+CIN,Tyler Mahle,SP,26.5,,176,3.018,2,Starting Rotation,2200000
+CIN,Wade Miley,SP,34.4,,170,9.025,n/a,Starting Rotation,8150000
+CIN,Jeff Hoffman,SP,28.2,,68,2.105,0,Starting Rotation,585500
+CIN,José De León,SP,28.6,,,2.06,1,Starting Rotation,570500
+CIN,Kyle Farmer,UTL,30.6,539,,2.129,1,Bench,1850000
+CIN,Tyler Naquin,OF,29.9,504,,4.033,2,Bench,1500000
+CIN,Aristides Aquino,OF,26.9,301,,1.005,0,Bench,579000
+CIN,Alex Blandino,INF,28.4,,,1.108,1,Bench,570500
+CIN,Lucas Sims,RP,26.9,,65,2.014,0,Closer,598500
+CIN,Amir Garrett,RP,28.9,,61,3.099,0,Closer,1500000
+CIN,Sean Doolittle,RP,34.5,,48,8.122,n/a,Closer,1500000
+CIN,Tejay Antone,RP,27.3,,,1,3,Setup Man,580500
+CIN,Cam Bedrosian,RP,29.5,,40,5.153,n/a,Middle Reliever,162162
+CIN,Cionel Pérez,RP,24.9,,38,1.01,1,Middle Reliever,570500
+CIN,Sal Romano,RP,27.5,,,1.167,0,Middle Reliever,570500
+CIN,Carson Fulmer,RP,27.3,,,2.035,0,Long Reliever,570500
+CIN,Sonny Gray,SP,31.4,,163,7.061,n/a,10-Day IL,10666667
+CIN,Michael Lorenzen,SP/RP,29.2,,88,5.159,n/a,10-Day IL,4437500
+CIN,Shogo Akiyama,OF,33,189,,1,3,10-Day IL,7000000
+CIN,Brandon Bailey,SP/RP,26.5,,,0.064,2,60-Day IL,570500
+CLE,José Ramírez,3B,28.5,665,,6.074,n/a,Lineup Regular,9400000
+CLE,Franmil Reyes,DH,25.7,644,,2.115,2,Lineup Regular,602400
+CLE,Eddie Rosario,LF,29.5,588,,5.12,n/a,Lineup Regular,8000000
+CLE,César Hernández,2B,30.9,539,,6.154,n/a,Lineup Regular,5000000
+CLE,Andrés Giménez,SS,22.6,497,,1,3,Lineup Regular,570500
+CLE,Roberto Pérez,C,32.3,301,,6.083,n/a,Lineup Regular,5500000
+CLE,Josh Naylor,RF,23.8,252,,1.118,3,Lineup Regular,577500
+CLE,Ben Gamel,CF,28.9,518,,4.029,1,Platoon vs R,1500000
+CLE,Yu Chang,INF,25.6,245,,1.005,1,Platoon vs L,570500
+CLE,Jake Bauers,1B,25.5,175,,1.1,0,Platoon vs R,570500
+CLE,Jordan Luplow,OF,27.5,133,,2.112,1,Platoon vs L,581500
+CLE,Shane Bieber,SP,25.8,,193,2.097,2,Starting Rotation,679700
+CLE,Zach Plesac,SP,26.2,,171,1.078,3,Starting Rotation,590200
+CLE,Aaron Civale,SP,25.8,,160,1.058,2,Starting Rotation,587400
+CLE,Logan Allen,SP,23.9,,61,0.083,1,Starting Rotation,570500
+CLE,Amed Rosario,INF/OF,25.4,595,,3.062,2,Bench,2400000
+CLE,Austin Hedges,C,28.6,384,,4.166,2,Bench,3280000
+CLE,James Karinchak,RP,25.5,,66,1.017,3,Closer,585000
+CLE,Emmanuel Clase,RP,23,,67,0.059,3,Setup Man,571800
+CLE,Nick Wittgren,RP,29.8,,56,4.071,1,Setup Man,2000000
+CLE,Cal Quantrill,RP,25.5,,169,1.132,2,Middle Reliever,586200
+CLE,Bryan Shaw,RP,33.4,,72,8.148,n/a,Middle Reliever,1000000
+CLE,Phil Maton,RP,28,,65,3.047,1,Middle Reliever,975000
+CLE,Oliver Pérez,RP,39.6,,39,16.093,n/a,Middle Reliever,182432
+CLE,Triston McKenzie,RP,23.7,,122,0.103,2,Long Reliever,575300
+CLE,Trevor Stephan,RP,25.3,,54,0,3,Long Reliever,570500
+CLE,Cam Hill,RP,26.9,,,0.158,3,60-Day IL,570500
+COL,Trevor Story,SS,28.4,644,,5,n/a,Lineup Regular,18500000
+COL,C.J. Cron,1B,31.2,581,,6.097,n/a,Lineup Regular,1000000
+COL,Charlie Blackmon,RF,34.8,560,,8.102,n/a,Lineup Regular,21000000
+COL,Raimel Tapia,LF,27.2,497,,3.02,0,Lineup Regular,1950000
+COL,Elias Díaz,C,30.4,358,,4.088,0,Lineup Regular,1200000
+COL,Joshua Fuentes,3B,28.1,,,1.015,2,Lineup Regular,575500
+COL,Ryan McMahon,2B,26.3,581,,3.006,1,Platoon vs R,2375000
+COL,Garrett Hampson,INF/OF,26.5,518,,2.03,1,Platoon vs L,580500
+COL,Sam Hilliard,CF,27.1,420,,1.034,2,Platoon vs R,570500
+COL,Chris Owings,INF/OF,29.6,126,,6.131,n/a,Platoon vs L,1000000
+COL,Germán Márquez,SP,26.1,,196,4.027,2,Starting Rotation,7800000
+COL,Antonio Senzatela,SP,26.2,,180,3.106,0,Starting Rotation,3000000
+COL,Jon Gray,SP,29.4,,169,5.062,n/a,Starting Rotation,6000000
+COL,Austin Gomber,SP,27.4,,158,1.111,1,Starting Rotation,575500
+COL,Yonathan Daza,OF,27.1,301,,0.101,0,Bench,572500
+COL,Dom Nuñez,C,26.2,262,,0.048,2,Bench,570500
+COL,Daniel Bard,RP,35.8,,65,4.103,1,Closer,2925000
+COL,Mychal Givens,RP,30.9,,66,5.069,n/a,Setup Man,4050000
+COL,Tyler Kinley,RP,30.2,,58,2.014,2,Setup Man,580500
+COL,Carlos Estévez,RP,28.3,,63,4.022,0,Middle Reliever,1450000
+COL,Robert Stephenson,RP,28.1,,63,3.049,0,Middle Reliever,805000
+COL,Jordan Sheffield,RP,25.8,,48,0,3,Middle Reliever,570500
+COL,Yency Almonte,RP,26.8,,37,1.168,0,Middle Reliever,575500
+COL,Ben Bowden,RP,26.4,,34,0,2,Middle Reliever,570500
+COL,Jhoulys Chacín,RP,33.2,,62,9.087,n/a,Long Reliever,800000
+COL,Chi Chi González,RP,29.2,,,2.149,0,Long Reliever,1100000
+COL,Kyle Freeland,SP,27.9,,163,3.144,2,10-Day IL,5025000
+COL,Peter Lambert,SP,24,,71,1.116,3,60-Day IL,570500
+COL,Scott Oberg,RP,31.1,,14,5.063,n/a,60-Day IL,4000000
+COL,Brendan Rodgers,INF,24.6,560,,1.075,2,10-Day IL,575500
+DET,Jeimer Candelario,3B,27.4,630,,3.038,0,Lineup Regular,2850000
+DET,Jonathan Schoop,2B,29.5,616,,7.027,n/a,Lineup Regular,4500000
+DET,Robbie Grossman,LF,31.5,602,,6.06,n/a,Lineup Regular,5000000
+DET,Miguel Cabrera,1B,38,532,,17.101,n/a,Lineup Regular,30000000
+DET,Victor Reyes,RF,26.5,266,,2.084,2,Lineup Regular,587100
+DET,Wilson Ramos,C,33.6,192,,10.047,n/a,Lineup Regular,2000000
+DET,Willi Castro,SS,23.9,112,,0.17,1,Lineup Regular,578500
+DET,JaCoby Jones,CF,28.9,,,3.125,2,Lineup Regular,2650000
+DET,Niko Goodrum,INF/OF,29.1,532,,3.031,3,Platoon vs L,2100000
+DET,Nomar Mazara,DH,25.9,280,,5,n/a,Platoon vs R,1750000
+DET,Casey Mize,SP,23.9,,171,0.111,3,Starting Rotation,574100
+DET,Tarik Skubal,SP,24.4,,158,0.114,3,Starting Rotation,574300
+DET,José Ureña,SP,29.6,,121,5.04,n/a,Starting Rotation,3250000
+DET,Julio Teheran,SP,30.2,,96,8.062,n/a,Starting Rotation,3000000
+DET,Matthew Boyd,SP,30.2,,81,4.136,0,Starting Rotation,6500000
+DET,Akil Baddoo,OF,22.6,616,,0,3,Bench,570500
+DET,Harold Castro,INF/OF,27.3,231,,1.141,2,Bench,581700
+DET,Grayson Greiner,C,28.5,32,,2.083,2,Bench,583100
+DET,Gregory Soto,RP,26.1,,68,1.102,1,Closer,579600
+DET,José Cisnero,RP,32,,61,3.02,1,Closer,970000
+DET,Daniel Norris,RP,27.9,,56,5.073,n/a,Closer,3475000
+DET,Bryan Garcia,RP,26,,42,1.029,3,Closer,570500
+DET,Buck Farmer,RP,30.1,,30,4.083,0,Closer,1850000
+DET,Michael Fulmer,RP,28,,65,4.157,2,Middle Reliever,3100000
+DET,Derek Holland,RP,34.5,,59,11.105,n/a,Middle Reliever,925000
+DET,Tyler Alexander,RP,26.7,,102,1.058,2,Long Reliever,578800
+DET,Rony García,SP/RP,23.3,,22,1,3,10-Day IL,570500
+DET,Spencer Turnbull,SP,28.5,,,2.02,2,COVID-19 IL,586900
+HOU,Jose Altuve,2B,30.9,637,,9.072,n/a,Lineup Regular,29000000
+HOU,Carlos Correa,SS,26.5,637,,5.119,n/a,Lineup Regular,11700000
+HOU,Kyle Tucker,RF,24.2,637,,1.079,1,Lineup Regular,624300
+HOU,Yordan Alvarez,DH,23.8,630,,1.113,3,Lineup Regular,609000
+HOU,Alex Bregman,3B,27,630,,4.07,3,Lineup Regular,13000000
+HOU,Yuli Gurriel,1B,36.8,602,,4.043,2,Lineup Regular,6500000
+HOU,Myles Straw,CF,26.5,560,,1.112,2,Lineup Regular,590400
+HOU,Michael Brantley,LF,33.9,539,,10.131,n/a,Lineup Regular,16000000
+HOU,Martín Maldonado,C,34.6,454,,8.156,n/a,Lineup Regular,3500000
+HOU,Luis Garcia (HOU),SP,24.3,,168,0.125,3,Starting Rotation,580100
+HOU,Zack Greinke,SP,37.4,,160,16.057,n/a,Starting Rotation,35000000
+HOU,Lance McCullers Jr.,SP,27.5,,147,5.14,n/a,Starting Rotation,6500000
+HOU,José Urquidy,SP,25.9,,145,1.049,2,Starting Rotation,604200
+HOU,Cristian Javier,SP,24,,83,1,3,Starting Rotation,620400
+HOU,Aledmys Díaz,INF/OF,30.7,441,,4.1,0,Bench,3000000
+HOU,Chas McCormick,OF,26,301,,0,3,Bench,570500
+HOU,Jason Castro,C,33.8,160,,10.104,n/a,Bench,3500000
+HOU,Robel García,INF,28,,,0.061,1,Bench,570500
+HOU,Ryan Pressly,RP,32.3,,66,7.039,n/a,Closer,8750000
+HOU,Blake Taylor,RP,25.6,,62,1,3,Setup Man,599100
+HOU,Enoli Paredes,RP,25.5,,10,1,3,Setup Man,570500
+HOU,Ryne Stanek,RP,29.7,,70,3.038,1,Middle Reliever,1100000
+HOU,Brooks Raley,RP,32.8,,61,1.045,0,Middle Reliever,2000000
+HOU,Joe Smith,RP,37,,47,12.091,n/a,Middle Reliever,4000000
+HOU,Bryan Abreu,RP,23.6,,30,0.064,1,Middle Reliever,570500
+HOU,Brandon Bielak,RP,25,,38,1,3,Long Reliever,570500
+HOU,Framber Valdez,SP,27.4,,191,1.163,2,10-Day IL,637300
+HOU,Justin Verlander,SP,38.1,,175,15.002,n/a,60-Day IL,33000000
+HOU,Pedro Báez,RP,33.1,,58,6.059,n/a,10-Day IL,4750000
+HOU,Josh James,SP/RP,28.1,,32,2.03,3,10-Day IL,602000
+HOU,Andre Scrubb,RP,26.2,,26,1,3,10-Day IL,570500
+HOU,Austin Pruitt,RP/SP,31.6,,,2.125,0,10-Day IL,617500
+KCR,Whit Merrifield,2B,32.2,644,,4.101,2,Lineup Regular,6750000
+KCR,Jorge Soler,DH,29.1,630,,5.143,n/a,Lineup Regular,8050000
+KCR,Salvador Perez,C,30.9,601,,9.05,n/a,Lineup Regular,14200000
+KCR,Andrew Benintendi,LF,26.7,560,,4.062,3,Lineup Regular,6600000
+KCR,Michael A. Taylor,CF,30,539,,5.129,n/a,Lineup Regular,1750000
+KCR,Hunter Dozier,3B,29.6,511,,3.06,1,Lineup Regular,2500000
+KCR,Carlos Santana,1B,35,427,,10.115,n/a,Lineup Regular,7000000
+KCR,Nicky Lopez,SS,26.1,609,,1.139,3,Platoon vs R,597500
+KCR,Kyle Isbel,RF,24.1,434,,0,3,Platoon vs R,570500
+KCR,Ryan McBroom,1B/OF,29,,,1.008,3,Platoon vs L,570500
+KCR,Hanser Alberto,INF,28.5,,,4.085,0,Platoon vs L,1650000
+KCR,Mike Minor,SP,33.3,,176,9.138,n/a,Starting Rotation,7000000
+KCR,Brad Keller,SP,25.7,,159,3,3,Starting Rotation,3350000
+KCR,Brady Singer,SP,24.7,,150,1,3,Starting Rotation,593700
+KCR,Danny Duffy,SP,32.3,,125,9.085,n/a,Starting Rotation,15500000
+KCR,Jarrod Dyson,OF,36.6,217,,9.088,n/a,Bench,1500000
+KCR,Cam Gallagher,C,28.3,134,,2.106,1,Bench,604000
+KCR,Greg Holland,RP,35.4,,48,8.163,n/a,Closer,2750000
+KCR,Scott Barlow,RP,28.3,,66,2.03,2,Setup Man,650000
+KCR,Josh Staumont,RP,27.3,,64,1.072,2,Setup Man,588700
+KCR,Jake Brentz,RP,26.5,,60,0,3,Middle Reliever,570500
+KCR,Kyle Zimmer,RP,29.5,,52,1.064,1,Middle Reliever,588700
+KCR,Jesse Hahn,RP,31.7,,44,5.031,n/a,Middle Reliever,1750000
+KCR,Wade Davis,RP,35.6,,42,11.029,n/a,Middle Reliever,1250000
+KCR,Carlos Hernández,RP,24.1,,134,0.081,2,Long Reliever,570500
+KCR,Jakob Junis,RP,28.5,,80,3.082,2,Long Reliever,1700000
+KCR,Adalberto Mondesi,SS,25.7,588,,3.088,0,10-Day IL,2525000
+LAA,Shohei Ohtani,DH/SP,26.7,637,175,3,3,Lineup Regular,3000000
+LAA,David Fletcher,2B,26.8,651,,2.111,3,Lineup Regular,2000000
+LAA,Mike Trout,CF,29.7,637,,9.07,n/a,Lineup Regular,37116667
+LAA,Anthony Rendon,3B,30.8,574,,7.13,n/a,Lineup Regular,28071429
+LAA,José Iglesias,SS,31.2,497,,8.036,n/a,Lineup Regular,85882
+LAA,Dexter Fowler,RF,35,441,,11.168,n/a,Lineup Regular,16500000
+LAA,Max Stassi,C,30,403,,4.049,0,Lineup Regular,1600000
+LAA,Justin Upton,LF,33.6,336,,13.06,n/a,Lineup Regular,23000000
+LAA,Albert Pujols,1B,41.2,224,,20,n/a,Lineup Regular,428646
+LAA,Alex Cobb,SP,33.5,,151,9.061,n/a,Starting Rotation,15000000
+LAA,Andrew Heaney,SP,29.8,,134,5.15,n/a,Starting Rotation,6750000
+LAA,Dylan Bundy,SP,28.4,,131,5.026,n/a,Starting Rotation,8325000
+LAA,José Quintana,SP,32.2,,111,8.133,n/a,Starting Rotation,8000000
+LAA,Griffin Canning,SP,24.9,,69,1.153,3,Starting Rotation,590500
+LAA,Jared Walsh,1B/OF,27.7,651,,1.065,1,Bench,590500
+LAA,Juan Lagares,OF,32,182,,7.005,n/a,Bench,1250000
+LAA,Kurt Suzuki,C,37.5,141,,13.113,n/a,Bench,1500000
+LAA,Jose Rojas,INF,28.1,42,,0,R5,Bench,570500
+LAA,Raisel Iglesias,RP,31.2,,68,5.154,n/a,Closer,9125000
+LAA,Steve Cishek,RP,34.8,,71,9.143,n/a,Setup Man,1000000
+LAA,Mike Mayers,RP,29.3,,67,3.02,0,Setup Man,1200000
+LAA,Alex Claudio,RP,29.2,,40,5.114,n/a,Middle Reliever,570500
+LAA,Junior Guerra,RP,36.2,,4,4.155,0,Middle Reliever,750000
+LAA,Chris Rodriguez,RP,22.7,,,0,3,Middle Reliever,570500
+LAA,Aaron Slegers,RP,28.6,,,1.086,1,Long Reliever,570500
+LAA,Félix Peña,RP,31.1,,,3.079,1,10-Day IL,570500
+LAA,Franklin Barreto,INF,25.1,,,2.031,0,60-Day IL,600500
+LAA,Luke Bard,RP,30.4,,,1.028,1,60-Day IL,570500
+LAD,Mookie Betts,RF,28.5,672,,6.07,n/a,Lineup Regular,22916667
+LAD,Max Muncy,1B,30.6,616,,4.027,1,Lineup Regular,9000000
+LAD,Corey Seager,SS,26.9,588,,5.032,n/a,Lineup Regular,13750000
+LAD,Justin Turner,3B,36.4,581,,10.045,n/a,Lineup Regular,12000000
+LAD,Chris Taylor,LF,30.6,567,,5.037,n/a,Lineup Regular,7800000
+LAD,Cody Bellinger,CF,25.7,560,,3.16,3,Lineup Regular,16100000
+LAD,Will Smith,C,26,496,,1.09,2,Lineup Regular,590500
+LAD,Gavin Lux,2B,23.4,574,,0.114,2,Platoon vs R,580500
+LAD,AJ Pollock,OF,33.3,539,,8.052,n/a,Platoon vs L,18000000
+LAD,Walker Buehler,SP,26.7,,201,2.168,2,Starting Rotation,3750000
+LAD,Julio Urías,SP,24.6,,189,3.117,1,Starting Rotation,3600000
+LAD,Clayton Kershaw,SP,33,,148,12.105,n/a,Starting Rotation,31000000
+LAD,Trevor Bauer,SP,30.2,,78,6.158,n/a,Starting Rotation,31333333
+LAD,Dustin May,SP,23.6,,36,1.059,3,Starting Rotation,590500
+LAD,Matt Beaty,INF/OF,27.9,259,,1.104,2,Bench,590500
+LAD,Austin Barnes,C,31.3,173,,4.098,0,Bench,1650000
+LAD,Zach McKinstry,INF/OF,25.9,147,,0.017,2,Bench,570500
+LAD,Edwin Ríos,INF/OF,26.9,105,,1.043,2,Bench,590500
+LAD,Kenley Jansen,RP,33.5,,67,10.073,n/a,Closer,20000000
+LAD,Blake Treinen,RP,32.8,,70,6.065,n/a,Setup Man,8000000
+LAD,Victor González,RP,25.4,,40,0.128,3,Setup Man,580500
+LAD,Tony Gonsolin,RP,26.9,,148,0.152,1,Middle Reliever,580500
+LAD,David Price,RP,35.6,,104,10.164,n/a,Middle Reliever,32000000
+LAD,Corey Knebel,RP,29.3,,57,5.151,n/a,Middle Reliever,5250000
+LAD,Jimmy Nelson,RP,31.8,,,6.107,n/a,Middle Reliever,1250000
+LAD,Scott Alexander,RP,31.7,,,4.039,1,Long Reliever,1000000
+LAD,Brusdar Graterol,RP,22.6,,66,1.029,3,COVID-19 IL,590500
+LAD,Joe Kelly,RP,32.8,,58,8.029,n/a,10-Day IL,8833333
+LAD,Tommy Kahnle,RP,31.6,,56,5.131,n/a,60-Day IL,1025000
+LAD,Caleb Ferguson,RP,24.7,,54,2.093,2,60-Day IL,600500
+MIA,Starling Marte,CF,32.5,602,,7.162,n/a,Lineup Regular,12500000
+MIA,Miguel Rojas,SS,32.1,595,,6.043,n/a,Lineup Regular,5000000
+MIA,Adam Duvall,RF,32.6,595,,4.151,0,Lineup Regular,2000000
+MIA,Brian Anderson,3B,27.9,567,,3.031,3,Lineup Regular,3800000
+MIA,Jesús Aguilar,1B,30.8,504,,4.082,0,Lineup Regular,4350000
+MIA,Jorge Alfaro,C,27.8,264,,3.083,0,Lineup Regular,2050000
+MIA,Jazz Chisholm Jr.,2B,23.2,581,,0.075,2,Platoon vs R,571750
+MIA,Corey Dickerson,LF,31.9,427,,7.101,n/a,Platoon vs R,9500000
+MIA,Garrett Cooper,1B/OF,30.3,336,,3.053,2,Platoon vs L,1800000
+MIA,Jon Berti,INF/OF,31.2,273,,1.168,3,Platoon vs L,607500
+MIA,Sandy Alcantara,SP,25.6,,202,2.1,2,Starting Rotation,630000
+MIA,Pablo López,SP,25.1,,166,2.093,2,Starting Rotation,595000
+MIA,Trevor Rogers,SP,23.4,,154,0.094,3,Starting Rotation,574750
+MIA,Elieser Hernandez,SP,25.9,,140,2.118,2,Starting Rotation,579000
+MIA,Lewis Brinson,OF,26.9,504,,2.115,1,Bench,587500
+MIA,Chad Wallach,C,29.4,154,,2.09,2,Bench,570500
+MIA,Magneuris Sierra,OF,25,,,1.138,0,Bench,571375
+MIA,Anthony Bass,RP,33.4,,63,6.01,n/a,Closer,1000000
+MIA,Dylan Floro,RP,30.3,,67,3.053,1,Setup Man,975000
+MIA,Yimi García,RP,30.6,,62,5.149,n/a,Setup Man,1900000
+MIA,Adam Cimber,RP,30.6,,68,2.139,3,Middle Reliever,925000
+MIA,Richard Bleier,RP,34,,62,4.074,1,Middle Reliever,1425000
+MIA,Zach Pop,RP,24.5,,58,0,3,Middle Reliever,570500
+MIA,Ross Detwiler,RP,35.1,,43,8.011,n/a,Middle Reliever,850000
+MIA,John Curtiss,RP,28,,,1.045,2,Middle Reliever,615000
+MIA,Paul Campbell,RP,25.7,,34,0,3,Long Reliever,570500
+MIA,Jesús Sánchez,OF,23.5,546,,0.033,1,10-Day IL,571000
+MIA,Jorge Guzman,SP/RP,25.2,,,0.022,1,10-Day IL,570500
+MIA,Jeff Brigham,RP,29.1,,,1.126,2,60-Day IL,570500
+MIL,Christian Yelich,LF,29.3,630,,7.069,n/a,Lineup Regular,14000000
+MIL,Luis Urías,SS,23.8,602,,1.12,2,Lineup Regular,575100
+MIL,Kolten Wong,2B,30.5,588,,7.045,n/a,Lineup Regular,7500000
+MIL,Avisaíl García,RF,29.8,560,,7.167,n/a,Lineup Regular,10750000
+MIL,Lorenzo Cain,CF,35,546,,8.099,n/a,Lineup Regular,17000000
+MIL,Keston Hiura,1B,24.7,161,,1.114,2,Lineup Regular,584600
+MIL,Omar Narváez,C,29.1,442,,4.089,3,Platoon vs R,2500000
+MIL,Orlando Arcia,INF,26.7,252,,4.047,1,Platoon vs L,2000000
+MIL,Manny Piña,C/1B,33.8,239,,5.046,n/a,Platoon vs L,1650000
+MIL,Travis Shaw,3B,31,224,,5.053,n/a,Platoon vs R,1500000
+MIL,Brandon Woodruff,SP,28.1,,187,2.161,1,Starting Rotation,3275000
+MIL,Corbin Burnes,SP,26.4,,174,2.049,2,Starting Rotation,608000
+MIL,Adrian Houser,SP,28.2,,149,2.01,0,Starting Rotation,584100
+MIL,Brett Anderson,SP,33.2,,116,11.135,n/a,Starting Rotation,2500000
+MIL,Jackie Bradley Jr.,OF,31,399,,6.15,n/a,Bench,6500000
+MIL,Daniel Robertson,INF/OF,27,147,,3.029,0,Bench,900000
+MIL,Billy McKinney,OF/1B,26.6,140,,1.107,0,Bench,570500
+MIL,Daniel Vogelbach,1B,28.3,126,,2.138,0,Bench,1400000
+MIL,Josh Hader,RP,27,,67,3.115,2,Closer,6675000
+MIL,Devin Williams,RP,26.5,,65,1.056,3,Setup Man,681100
+MIL,Brent Suter,RP,31.6,,65,3.161,2,Setup Man,1550000
+MIL,Drew Rasmussen,RP,25.7,,117,0.128,3,Middle Reliever,573000
+MIL,J.P. Feyereisen,RP,28.1,,58,0.108,2,Middle Reliever,572400
+MIL,Eric Yardley,RP,30.6,,,1.04,3,Middle Reliever,570500
+MIL,Freddy Peralta,RP,24.8,,163,2.09,2,Long Reliever,1234960
+MIL,Josh Lindblom,RP,33.8,,18,2.151,0,Long Reliever,3041667
+MIL,Justin Topa,RP,30.1,,30,0.05,3,10-Day IL,570500
+MIL,Mark Mathias,INF/OF,26.7,7,,0.081,2,60-Day IL,570500
+MIL,Derek Fisher,OF,27.6,,,2.061,0,10-Day IL,570500
+MIL,Jacob Nottingham,C,26,,,1.026,0,10-Day IL,570500
+MIL,Bobby Wahl,RP,29,,,2.059,1,10-Day IL,570500
+MIL,Tim Lopes,OF/INF,26.8,,,1.055,3,60-Day IL,570500
+MIN,Miguel Sanó,1B,27.9,644,,5.066,n/a,Lineup Regular,12333333
+MIN,Jorge Polanco,2B,27.7,644,,4.024,0,Lineup Regular,4333333
+MIN,Josh Donaldson,3B,35.3,595,,8.158,n/a,Lineup Regular,21750000
+MIN,Nelson Cruz,DH,40.8,574,,13.082,n/a,Lineup Regular,13000000
+MIN,Max Kepler,RF,28.1,560,,4.152,0,Lineup Regular,6500000
+MIN,Byron Buxton,CF,27.3,560,,4.16,1,Lineup Regular,5125000
+MIN,Andrelton Simmons,SS,31.6,525,,8.122,n/a,Lineup Regular,10500000
+MIN,Mitch Garver,C,30.2,400,,3.045,2,Lineup Regular,1875000
+MIN,Luis Arraez,LF,24,630,,1.121,2,Platoon vs R,611000
+MIN,Kyle Garlick,OF,29.2,105,,0.163,1,Platoon vs L,570500
+MIN,José Berríos,SP,26.8,,198,4.044,1,Starting Rotation,6100000
+MIN,Michael Pineda,SP,32.2,,160,8.165,n/a,Starting Rotation,10000000
+MIN,J.A. Happ,SP,38.5,,140,12.047,n/a,Starting Rotation,8000000
+MIN,Matt Shoemaker,SP,34.5,,79,6.166,n/a,Starting Rotation,570500
+MIN,Kenta Maeda,SP,33,,,5,n/a,Starting Rotation,3125000
+MIN,Ryan Jeffers,C,23.8,179,,0.108,3,Bench,570500
+MIN,Jake Cave,OF,28.3,154,,2.072,1,Bench,597500
+MIN,Willians Astudillo,UTL,29.6,40,,1.158,2,Bench,573500
+MIN,Alex Colomé,RP,32.2,,68,6.118,n/a,Closer,5000000
+MIN,Taylor Rogers,RP,30.3,,67,4.145,2,Closer,6000000
+MIN,Hansel Robles,RP,30.6,,68,5.119,n/a,Setup Man,2000000
+MIN,Tyler Duffey,RP,30.3,,66,4.074,0,Setup Man,2200000
+MIN,Jorge Alcala,RP,25.7,,62,1.005,3,Middle Reliever,575500
+MIN,Caleb Thielbar,RP,34.2,,62,2.131,1,Middle Reliever,700000
+MIN,Cody Stashak,RP,26.8,,34,1.07,3,Middle Reliever,570500
+MIN,Randy Dobnak,RP,26.2,,95,1.036,3,Long Reliever,700000
+MIN,Edwar Colina,SP/RP,23.9,,20,0.006,3,10-Day IL,570500
+NYM,Pete Alonso,1B,26.3,665,,2,3,Lineup Regular,676775
+NYM,Francisco Lindor,SS,27.4,658,,5.113,n/a,Lineup Regular,22300000
+NYM,Jeff McNeil,2B,29,637,,2.069,3,Lineup Regular,642251
+NYM,Michael Conforto,RF,28.1,616,,5.043,n/a,Lineup Regular,12250000
+NYM,Dominic Smith,LF,25.8,553,,2.146,2,Lineup Regular,2550000
+NYM,J.D. Davis,3B,27.9,476,,2.137,2,Lineup Regular,2100000
+NYM,James McCann,C,30.8,403,,6.028,n/a,Lineup Regular,8150000
+NYM,Brandon Nimmo,CF,28,623,,4.042,1,Platoon vs R,4700000
+NYM,Kevin Pillar,OF,32.2,301,,6.113,n/a,Platoon vs L,3600000
+NYM,Marcus Stroman,SP,29.9,,184,6.026,n/a,Starting Rotation,18900000
+NYM,Taijuan Walker,SP,28.6,,169,6.142,n/a,Starting Rotation,9000000
+NYM,Jacob deGrom,SP,32.8,,155,6.139,n/a,Starting Rotation,37500000
+NYM,David Peterson,SP,25.6,,104,1,3,Starting Rotation,585750
+NYM,Joey Lucchesi,SP,27.8,,,2.067,2,Starting Rotation,607100
+NYM,Jonathan Villar,INF/OF,29.9,469,,6.113,n/a,Bench,3550000
+NYM,Luis Guillorme,INF,26.5,294,,1.167,1,Bench,580701
+NYM,Tomás Nido,C,27,226,,2.089,0,Bench,577200
+NYM,Albert Almora Jr.,OF,27,,,4.012,1,Bench,1250000
+NYM,Edwin Díaz,RP,27,,67,4.121,3,Closer,7000000
+NYM,Miguel Castro,RP,26.3,,63,4.079,0,Setup Man,1687500
+NYM,Trevor May,RP,31.5,,63,6.012,n/a,Setup Man,7750000
+NYM,Jeurys Familia,RP,31.5,,65,8.023,n/a,Middle Reliever,11666667
+NYM,Aaron Loup,RP,33.3,,65,8.04,n/a,Middle Reliever,3000000
+NYM,Dellin Betances,RP,33,,40,7.078,n/a,Middle Reliever,6800000
+NYM,Jacob Barnes,RP,31,,,4.03,0,Middle Reliever,750000
+NYM,Robert Gsellman,RP,27.7,,56,4.042,2,Long Reliever,1300000
+NYM,Noah Syndergaard,SP,28.6,,172,5.149,n/a,60-Day IL,9700000
+NYM,Carlos Carrasco,SP,34,,157,9.147,n/a,10-Day IL,12000000
+NYM,Seth Lugo,RP,31.4,,70,4.082,2,10-Day IL,2925000
+NYM,Drew Smith,RP,27.5,,60,2.034,2,10-Day IL,574500
+NYM,José Martínez,OF/1B,32.7,,,4.002,2,60-Day IL,1000000
+NYY,Aaron Judge,RF,28.9,651,,4.051,3,Lineup Regular,10175000
+NYY,Gleyber Torres,SS,24.3,623,,2.162,2,Lineup Regular,4000000
+NYY,DJ LeMahieu,2B,32.7,609,,8.128,n/a,Lineup Regular,15000000
+NYY,Gio Urshela,3B,29.5,595,,3.127,0,Lineup Regular,4650000
+NYY,Giancarlo Stanton,DH,31.4,588,,10.118,n/a,Lineup Regular,29000000
+NYY,Aaron Hicks,CF,31.5,560,,7.041,n/a,Lineup Regular,10785714
+NYY,Gary Sánchez,C,28.3,399,,4.086,0,Lineup Regular,6350000
+NYY,Clint Frazier,LF,26.6,182,,2.133,1,Lineup Regular,2100000
+NYY,Jay Bruce,1B,34,,,12.125,n/a,Lineup Regular,570500
+NYY,Gerrit Cole,SP,30.6,,201,7.111,n/a,Starting Rotation,36000000
+NYY,Jordan Montgomery,SP,28.3,,164,3.145,2,Starting Rotation,2130000
+NYY,Jameson Taillon,SP,29.4,,152,4.11,1,Starting Rotation,2250000
+NYY,Corey Kluber,SP,35,,150,8.074,n/a,Starting Rotation,11000000
+NYY,Domingo Germán,SP,28.7,,90,2.017,1,Starting Rotation,619675
+NYY,Brett Gardner,OF,37.6,406,,12.072,n/a,Bench,2850000
+NYY,Tyler Wade,INF/OF,26.4,273,,2.093,1,Bench,603000
+NYY,Kyle Higashioka,C,30.9,243,,2.005,0,Bench,594000
+NYY,Mike Tauchman,OF,30.3,,,2.055,0,Bench,570500
+NYY,Aroldis Chapman,RP,33.1,,64,10.009,n/a,Closer,16000000
+NYY,Chad Green,RP,29.9,,63,4.05,1,Setup Man,2150000
+NYY,Darren O'Day,RP,38.4,,47,12.103,n/a,Setup Man,1750000
+NYY,Jonathan Loáisiga,RP,26.4,,66,2.022,1,Middle Reliever,595800
+NYY,Luis Cessa,RP,28.9,,66,3.131,0,Middle Reliever,1050000
+NYY,Lucas Luetge,RP,34,,44,2.015,0,Middle Reliever,600000
+NYY,Nick Nelson,RP,25.3,,18,0.144,3,Middle Reliever,570500
+NYY,Michael King,RP,25.9,,63,1.008,3,Long Reliever,570500
+NYY,Luis Severino,SP,27.1,,111,4.17,2,60-Day IL,10750000
+NYY,Justin Wilson,RP,33.6,,58,8.035,n/a,10-Day IL,2850000
+NYY,Clarke Schmidt,SP/RP,25.1,,12,0.031,3,60-Day IL,570500
+NYY,Luke Voit,1B,30.1,546,,2.169,2,10-Day IL,4700000
+NYY,Miguel Andújar,INF/OF,26.1,49,,2.117,1,10-Day IL,639000
+NYY,Zack Britton,RP,33.3,,,8.158,n/a,60-Day IL,13000000
+OAK,Matt Olson,1B,27,665,,3.103,2,Lineup Regular,5000000
+OAK,Matt Chapman,3B,27.9,651,,3.109,3,Lineup Regular,6490000
+OAK,Mark Canha,LF,32.1,602,,5.092,n/a,Lineup Regular,6925000
+OAK,Elvis Andrus,SS,32.6,560,,12,n/a,Lineup Regular,14000000
+OAK,Ramón Laureano,CF,26.7,546,,2.059,2,Lineup Regular,580500
+OAK,Chad Pinder,RF,29,525,,4.047,3,Lineup Regular,2275000
+OAK,Jed Lowrie,2B,37,462,,12.111,n/a,Lineup Regular,1500000
+OAK,Sean Murphy,C,26.5,460,,1.029,3,Lineup Regular,575500
+OAK,Stephen Piscotty,OF,30.2,553,,5.076,n/a,Platoon vs L,7583333
+OAK,Mitch Moreland,DH,35.6,399,,10.067,n/a,Platoon vs R,2250000
+OAK,Chris Bassitt,SP,32.1,,186,4.13,0,Starting Rotation,4900000
+OAK,Frankie Montas,SP,28,,179,3.015,0,Starting Rotation,1800000
+OAK,Sean Manaea,SP,29.2,,179,4.157,3,Starting Rotation,5950000
+OAK,Cole Irvin,SP,27.2,,165,0.12,1,Starting Rotation,573000
+OAK,Jesús Luzardo,SP,23.5,,79,1.021,3,Starting Rotation,575500
+OAK,Tony Kemp,2B/OF,29.4,560,,3.098,0,Bench,1050000
+OAK,Aramis Garcia,C,28.2,,,1.086,1,Bench,570500
+OAK,Ka'ai Tom,OF,26.9,,,0,3,Bench,570500
+OAK,Jake Diekman,RP,34.2,,69,8.05,n/a,Closer,4000000
+OAK,J.B. Wendelken,RP,28,,65,2.028,0,Closer,580500
+OAK,Lou Trivino,RP,29.5,,65,2.163,2,Closer,912500
+OAK,Sergio Romo,RP,38.1,,65,12.097,n/a,Closer,2250000
+OAK,Yusmeiro Petit,RP,36.4,,75,10.016,n/a,Middle Reliever,2550000
+OAK,Adam Kolarek,RP,32.2,,44,2.111,2,Middle Reliever,595500
+OAK,Reymin Guduan,RP,29,,,0.104,0,Middle Reliever,570500
+OAK,Burch Smith,RP,31,,,3.095,1,Long Reliever,570500
+OAK,Mike Fiers,SP,35.8,,127,7.085,n/a,10-Day IL,3500000
+OAK,Trevor Rosenthal,RP,30.8,,58,7.001,n/a,10-Day IL,11000000
+OAK,Daulton Jefferies,SP/RP,25.7,,78,0.003,2,,570500
+PHI,Bryce Harper,RF,28.5,665,,8.159,n/a,Lineup Regular,27538462
+PHI,Rhys Hoskins,1B,28,616,,3.053,3,Lineup Regular,4800000
+PHI,Jean Segura,2B,31,616,,8.065,n/a,Lineup Regular,14850000
+PHI,Andrew McCutchen,LF,34.5,574,,11.123,n/a,Lineup Regular,20000000
+PHI,Alec Bohm,3B,24.7,553,,0.128,3,Lineup Regular,575000
+PHI,J.T. Realmuto,C,30,548,,6.038,n/a,Lineup Regular,20000000
+PHI,Didi Gregorius,SS,31.1,490,,7.159,n/a,Lineup Regular,12750000
+PHI,Adam Haseley,CF,25,455,,1.118,3,Lineup Regular,570500
+PHI,Zack Wheeler,SP,30.8,,206,7.098,n/a,Starting Rotation,22500000
+PHI,Aaron Nola,SP,27.8,,194,5.076,n/a,Starting Rotation,12250000
+PHI,Zach Eflin,SP,27,,130,4.018,1,Starting Rotation,4450000
+PHI,Matt Moore,SP,31.8,,104,8,n/a,Starting Rotation,3000000
+PHI,Chase Anderson,SP,33.3,,102,6.146,n/a,Starting Rotation,4000000
+PHI,Brad Miller,INF/OF,31.5,399,,7.004,n/a,Bench,3500000
+PHI,Roman Quinn,OF,27.9,364,,2.088,0,Bench,578000
+PHI,Ronald Torreyes,INF,28.6,196,,3.006,0,Bench,800000
+PHI,Andrew Knapp,C,29.4,179,,4,3,Bench,1100000
+PHI,Matt Joyce,OF,36.7,154,,11.123,n/a,Bench,1500000
+PHI,Héctor Neris,RP,31.8,,72,5.068,n/a,Closer,5000000
+PHI,José Alvarado,RP,25.9,,67,3.088,2,Setup Man,1000000
+PHI,Archie Bradley,RP,28.6,,61,5.112,n/a,Setup Man,6000000
+PHI,Vince Velasquez,RP,28.8,,108,5.086,n/a,Middle Reliever,4000000
+PHI,Connor Brogdon,RP,26.2,,64,0.081,3,Middle Reliever,571500
+PHI,Sam Coonrod,RP,28.5,,62,1.078,2,Middle Reliever,573000
+PHI,Tony Watson,RP,35.8,,60,9.101,n/a,Middle Reliever,1000000
+PHI,Brandon Kintzler,RP,36.7,,40,9.003,n/a,Middle Reliever,3000000
+PHI,David Hale,RP,33.5,,,3.163,0,Long Reliever,850000
+PHI,Seranthony Domínguez,RP,26.3,,58,2.147,2,60-Day IL,727500
+PIT,Bryan Reynolds,LF,26.2,665,,1.163,3,Lineup Regular,601000
+PIT,Ke'Bryan Hayes,3B,24.2,602,,0.075,2,Lineup Regular,589500
+PIT,Adam Frazier,2B,29.3,581,,4.075,2,Lineup Regular,4300000
+PIT,Kevin Newman,SS,27.7,448,,2.046,3,Lineup Regular,598000
+PIT,Anthony Alford,CF,26.7,441,,1.142,0,Lineup Regular,570500
+PIT,Jacob Stallings,C,31.3,422,,2.149,0,Lineup Regular,1300000
+PIT,Colin Moran,1B,28.5,546,,3.107,1,Platoon vs R,2800000
+PIT,Gregory Polanco,RF,29.5,371,,6.103,n/a,Platoon vs R,11375000
+PIT,Erik González,INF/OF,29.6,,,4.007,0,Platoon vs L,1225000
+PIT,Phillip Evans,INF/OF,28.6,,,1.11,2,Platoon vs L,570500
+PIT,Tyler Anderson,SP,31.3,,178,5.065,n/a,Starting Rotation,2500000
+PIT,JT Brubaker,SP,27.4,,147,1,2,Starting Rotation,590500
+PIT,Mitch Keller,SP,25,,128,1.059,2,Starting Rotation,570500
+PIT,Trevor Cahill,SP,33.1,,87,11.056,n/a,Starting Rotation,1500000
+PIT,Chad Kuhl,SP,28.6,,68,4.079,2,Starting Rotation,2130000
+PIT,Michael Perez,C,28.6,198,,2,2,Bench,570500
+PIT,Dustin Fowler,OF,26.3,,,1.039,0,Bench,570500
+PIT,Richard Rodríguez,RP,31.1,,60,3.016,3,Closer,1700000
+PIT,Chris Stratton,RP,30.6,,68,3.1,0,Setup Man,1100000
+PIT,Michael Feliz,RP,27.5,,,4.169,0,Setup Man,1000000
+PIT,David Bednar,RP,26.5,,64,0.076,2,Middle Reliever,579000
+PIT,Clay Holmes,RP,28,,60,2.031,0,Middle Reliever,650000
+PIT,Duane Underwood Jr.,RP,26.7,,58,1.044,0,Middle Reliever,584500
+PIT,Sam Howard,RP,28.1,,56,1.105,2,Middle Reliever,596000
+PIT,Wil Crowe,RP,26.6,,102,0.025,2,Long Reliever,570500
+PIT,Luis Oviedo,RP,21.9,,,0,3,Long Reliever,570500
+PIT,Steven Brault,SP,28.9,,148,3.085,1,60-Day IL,2050000
+PIT,Cody Ponce,RP,26.9,,50,0.05,2,10-Day IL,570500
+PIT,Austin Davis,RP,28.2,,48,1.105,2,60-Day IL,570500
+PIT,Blake Cederlind,RP,25.2,,30,0.036,2,60-Day IL,570500
+PIT,Kyle Crick,RP,28.3,,,3.104,1,Paternity List,800000
+SDP,Manny Machado,3B,28.7,665,,8.056,n/a,Lineup Regular,33333333
+SDP,Fernando Tatis Jr.,SS,22.2,651,,2,3,Lineup Regular,1714286
+SDP,Jake Cronenworth,2B,27.2,630,,1,3,Lineup Regular,584900
+SDP,Wil Myers,RF,30.3,609,,7.104,n/a,Lineup Regular,22500000
+SDP,Eric Hosmer,1B,31.4,595,,9.146,n/a,Lineup Regular,20833333
+SDP,Tommy Pham,CF,33.1,560,,5.107,n/a,Lineup Regular,8900000
+SDP,Jurickson Profar,LF,28.1,420,,6.165,n/a,Lineup Regular,6000000
+SDP,Victor Caratini,C,27.6,264,,3.051,1,Lineup Regular,1300000
+SDP,Joe Musgrove,SP,28.3,,182,4.063,2,Starting Rotation,4450000
+SDP,Yu Darvish,SP,34.6,,169,9,n/a,Starting Rotation,23000000
+SDP,Blake Snell,SP,28.3,,167,4.072,1,Starting Rotation,11100000
+SDP,Chris Paddack,SP,25.2,,87,2,3,Starting Rotation,610900
+SDP,Adrian Morejon,SP,22.1,,27,1.013,2,Starting Rotation,572900
+SDP,Jorge Mateo,OF/INF,25.8,406,,1,0,Bench,571800
+SDP,Ha-Seong Kim,INF/OF,25.5,217,,0,3,Bench,5000000
+SDP,Luis Campusano,C,22.5,78,,0.067,3,Bench,570500
+SDP,Tucupita Marcano,INF/OF,21.5,35,,0,3,Bench,570500
+SDP,Mark Melancon,RP,36,,66,10.098,n/a,Closer,2000000
+SDP,Emilio Pagán,RP,29.9,,64,3.091,1,Closer,1570000
+SDP,Drew Pomeranz,RP,32.4,,32,8.013,n/a,Closer,8000000
+SDP,Keone Kela,RP,28,,32,6,n/a,Setup Man,1200000
+SDP,Tim Hill,RP,31.1,,62,2.112,2,Middle Reliever,596000
+SDP,Craig Stammen,RP,37.1,,58,9.16,n/a,Middle Reliever,4000000
+SDP,Ryan Weathers,RP,21.4,,55,0,3,Middle Reliever,570500
+SDP,Taylor Williams,RP,29.7,,,2.034,0,Middle Reliever,570500
+SDP,Nabil Crismatt,RP,26.3,,44,0.05,2,Long Reliever,570500
+SDP,Mike Clevinger,SP,30.3,,148,4.013,1,60-Day IL,3500000
+SDP,Pierce Johnson,RP,29.9,,65,1.137,0,10-Day IL,2000000
+SDP,Matt Strahm,RP,29.4,,54,4.064,2,10-Day IL,2050000
+SDP,Dinelson Lamet,SP,28.7,,50,3.13,3,10-Day IL,4200000
+SDP,Austin Adams,RP,29.9,,48,2.015,0,10-Day IL,580200
+SDP,Javy Guerra,RP,25.5,,38,1.052,0,10-Day IL,573100
+SDP,José Castillo,RP,25.2,,24,2.121,2,60-Day IL,570500
+SDP,Trey Wingenter,RP,27,,22,2.053,2,60-Day IL,570500
+SDP,Michel Baez,SP/RP,25.2,,4,0.104,2,60-Day IL,570500
+SDP,Trent Grisham,OF,24.4,602,,1.06,3,10-Day IL,589200
+SDP,Austin Nola,C,31.3,354,,1.106,2,10-Day IL,571500
+SDP,Jorge Oña,OF,24.2,189,,0.033,2,10-Day IL,570500
+SDP,Dan Altavilla,RP,28.6,,,3.063,0,10-Day IL,850000
+SEA,J.P. Crawford,SS,26.2,665,,2.163,1,Lineup Regular,2050000
+SEA,Ty France,DH,26.7,651,,1.089,2,Lineup Regular,587500
+SEA,Kyle Seager,3B,33.4,630,,9.085,n/a,Lineup Regular,18500000
+SEA,Mitch Haniger,RF,30.3,630,,4.048,3,Lineup Regular,3010000
+SEA,Dylan Moore,2B,28.7,469,,2,3,Lineup Regular,590400
+SEA,Evan White,1B,24.9,329,,1,3,Lineup Regular,1300000
+SEA,Tom Murphy,C,30,262,,3.092,0,Lineup Regular,875000
+SEA,Jake Fraley,LF,25.9,455,,0.097,2,Platoon vs R,572100
+SEA,Luis Torrens,C,24.9,313,,1.128,1,Platoon vs L,580700
+SEA,Taylor Trammell,CF,23.5,98,,0,3,Platoon vs R,570500
+SEA,Sam Haggerty,INF/OF,26.9,,,0.14,2,Platoon vs L,570500
+SEA,Marco Gonzales,SP,29.1,,187,3.102,0,Starting Rotation,5250000
+SEA,Chris Flexen,SP,26.8,,183,0.107,0,Starting Rotation,1700000
+SEA,Yusei Kikuchi,SP,29.8,,152,2,3,Starting Rotation,17000000
+SEA,Justin Dunn,SP,25.5,,120,1.02,3,Starting Rotation,584900
+SEA,Justus Sheffield,SP,24.9,,62,1.053,2,Starting Rotation,625000
+SEA,James Paxton,SP,32.4,,53,6.151,n/a,Starting Rotation,8500000
+SEA,José Marmolejos,1B/OF,28.2,,,1.017,0,Bench,570500
+SEA,Rafael Montero,RP,30.5,,52,4.138,0,Closer,2250000
+SEA,Kendall Graveman,RP,30.3,,64,5.078,n/a,Setup Man,1250000
+SEA,Anthony Misiewicz,RP,26.4,,58,1,3,Setup Man,578700
+SEA,Drew Steckenrider,RP,30.2,,66,3.094,2,Middle Reliever,800000
+SEA,Casey Sadler,RP,30.7,,60,2.035,0,Middle Reliever,591800
+SEA,Will Vest,RP,25.8,,,0,3,Middle Reliever,570500
+SEA,Keynan Middleton,RP,27.6,,,3.089,1,Middle Reliever,800000
+SEA,Nick Margevicius,RP,24.8,,33,1.1,2,Long Reliever,586900
+SEA,Ken Giles,RP,30.5,,54,6.113,n/a,60-Day IL,1250000
+SEA,Andrés Muñoz,RP,22.2,,46,1.08,3,60-Day IL,570500
+SEA,Kyle Lewis,OF,25.7,581,,1.02,3,10-Day IL,625000
+SEA,Shed Long Jr.,INF/OF,25.6,280,,1.057,1,10-Day IL,570500
+SFG,Mike Yastrzemski,RF,30.6,574,,1.128,3,Lineup Regular,600000
+SFG,Brandon Belt,1B,32.9,539,,9.128,n/a,Lineup Regular,17200000
+SFG,Donovan Solano,2B,33.3,420,,5.081,n/a,Lineup Regular,3250000
+SFG,Mauricio Dubón,CF,26.7,119,,1.04,1,Lineup Regular,583000
+SFG,Buster Posey,C,34,,,9.161,n/a,Lineup Regular,22177778
+SFG,Brandon Crawford,SS,34.2,588,,9.094,n/a,Platoon vs R,15200000
+SFG,Tommy La Stella,3B,32.2,511,,6.057,n/a,Platoon vs R,2000000
+SFG,Evan Longoria,3B,35.5,476,,12.17,n/a,Platoon vs L,18666667
+SFG,Wilmer Flores,INF,29.7,336,,7.003,n/a,Platoon vs L,3000000
+SFG,Alex Dickerson,LF,30.9,322,,4.12,1,Platoon vs R,2100000
+SFG,Austin Slater,OF/1B,28.3,273,,2.147,1,Platoon vs L,1150000
+SFG,Kevin Gausman,SP,30.2,,194,6.151,n/a,Starting Rotation,18900000
+SFG,Logan Webb,SP,24.4,,191,1.044,2,Starting Rotation,583000
+SFG,Anthony DeSclafani,SP,31,,169,6.062,n/a,Starting Rotation,6000000
+SFG,Johnny Cueto,SP,35.1,,143,13,n/a,Starting Rotation,21000000
+SFG,Aaron Sanchez,SP,28.8,,88,5.069,n/a,Starting Rotation,4000000
+SFG,Darin Ruf,1B/OF,34.7,308,,3.138,0,Bench,1275000
+SFG,Curt Casali,C/1B,32.4,243,,4.151,0,Bench,2000000
+SFG,Tyler Rogers,RP,30.3,,70,1.034,3,Closer,583000
+SFG,Jake McGee,RP,34.7,,66,9.127,n/a,Closer,2000000
+SFG,Matt Wisler,RP,28.6,,60,4.042,0,Closer,1150000
+SFG,Reyes Moronta,RP,28.2,,,3.028,2,Closer,695000
+SFG,Jarlín García,RP,28.2,,58,3.114,0,Middle Reliever,950000
+SFG,Wandy Peralta,RP,29.7,,58,3.168,1,Middle Reliever,925000
+SFG,José Álvarez,RP,31.9,,52,6.035,n/a,Middle Reliever,1050000
+SFG,Caleb Baragar,RP,27,,40,1,3,Long Reliever,570500
+SFG,Alex Wood,SP,30.2,,160,7.123,n/a,10-Day IL,4250000
+SFG,Tyler Beede,SP,27.9,,107,1.128,1,60-Day IL,570500
+SFG,John Brebbia,RP,30.8,,36,3.093,2,60-Day IL,800000
+STL,Paul Goldschmidt,1B,33.6,672,,9.059,n/a,Lineup Regular,26000000
+STL,Nolan Arenado,3B,30,672,,7.155,n/a,Lineup Regular,35000000
+STL,Tyler O'Neill,LF,25.8,630,,2.059,1,Lineup Regular,594700
+STL,Dylan Carlson,CF,22.4,630,,0.094,3,Lineup Regular,577100
+STL,Tommy Edman,2B,25.9,616,,1.114,3,Lineup Regular,596000
+STL,Paul DeJong,SS,27.7,469,,3.127,3,Lineup Regular,4166667
+STL,Yadier Molina,C,38.7,435,,16.123,n/a,Lineup Regular,9000000
+STL,Austin Dean,OF/1B,27.5,7,,1.124,2,Platoon vs L,570500
+STL,Justin Williams,RF,25.6,,,0.058,1,Platoon vs R,570500
+STL,Adam Wainwright,SP,39.6,,194,15.027,n/a,Starting Rotation,8000000
+STL,Jack Flaherty,SP,25.5,,177,3.006,2,Starting Rotation,3900000
+STL,Carlos Martínez,SP,29.5,,133,7.073,n/a,Starting Rotation,11700000
+STL,John Gant,SP,28.7,,77,4.004,0,Starting Rotation,2100000
+STL,Daniel Ponce de Leon,SP,29.2,,,1.086,0,Starting Rotation,570500
+STL,Edmundo Sosa,INF,25.1,378,,0.14,0,Bench,575900
+STL,Matt Carpenter,INF,35.3,266,,9.012,n/a,Bench,18500000
+STL,Andrew Knizner,C,26.2,180,,1.021,1,Bench,579200
+STL,John Nogowski,1B/OF,28.2,,,0.017,2,Bench,570500
+STL,Alex Reyes,RP,26.6,,68,3.043,2,Closer,900000
+STL,Giovanny Gallegos,RP,29.6,,70,2.085,1,Setup Man,594500
+STL,Andrew Miller,RP,35.9,,50,12.062,n/a,Setup Man,12000000
+STL,Génesis Cabrera,RP,24.5,,66,1.027,2,Middle Reliever,580900
+STL,Ryan Helsley,RP,26.7,,60,1.105,2,Middle Reliever,582300
+STL,Jordan Hicks,RP,24.6,,57,3,3,Middle Reliever,862500
+STL,Tyler Webb,RP,30.7,,,2.076,0,Middle Reliever,570500
+STL,Jake Woodford,RP,24.4,,96,0.167,3,Long Reliever,570500
+STL,Miles Mikolas,SP,32.6,,158,4.037,0,10-Day IL,17000000
+STL,Kwang Hyun Kim,SP,32.7,,129,1,3,10-Day IL,4000000
+STL,Dakota Hudson,SP,26.5,,119,2.066,3,10-Day IL,595700
+STL,Harrison Bader,OF,26.8,602,,3.03,1,10-Day IL,2000000
+TBR,Randy Arozarena,LF,26.1,644,,0.129,2,Lineup Regular,581200
+TBR,Brandon Lowe,2B,26.7,623,,2.058,3,Lineup Regular,2500000
+TBR,Willy Adames,SS,25.6,616,,2.105,1,Lineup Regular,590000
+TBR,Austin Meadows,DH,25.9,602,,2.074,2,Lineup Regular,591400
+TBR,Yandy Díaz,3B,29.6,560,,2.122,1,Lineup Regular,588900
+TBR,Kevin Kiermaier,CF,30.9,518,,6.131,n/a,Lineup Regular,11666667
+TBR,Manuel Margot,RF,26.5,455,,4.012,2,Lineup Regular,3400000
+TBR,Mike Zunino,C,30,339,,6.165,n/a,Lineup Regular,2000000
+TBR,Yoshi Tsutsugo,1B,29.3,413,,1,3,Platoon vs R,7000000
+TBR,Mike Brosseau,INF/OF,27,252,,1.1,3,Platoon vs L,586300
+TBR,Ryan Yarbrough,SP,29.3,,143,2.147,2,Starting Rotation,2300000
+TBR,Rich Hill,SP,41.1,,121,11.127,n/a,Starting Rotation,2500000
+TBR,Michael Wacha,SP,29.8,,119,7.062,n/a,Starting Rotation,3000000
+TBR,Chris Archer,SP,32.5,,105,7.156,n/a,Starting Rotation,6500000
+TBR,Tyler Glasnow,SP,27.6,,,3.158,1,Starting Rotation,4000000
+TBR,Joey Wendle,INF/OF,30.9,504,,3.088,1,Bench,2250000
+TBR,Francisco Mejía,C,25.4,262,,2.054,1,Bench,580500
+TBR,Diego Castillo,RP,27.2,,65,2.118,2,Closer,582300
+TBR,Andrew Kittredge,RP,31,,65,2.07,1,Closer,750000
+TBR,Pete Fairbanks,RP,27.3,,64,1.057,2,Closer,583800
+TBR,Ryan Thompson,RP,28.8,,55,1,3,Closer,577200
+TBR,Chaz Roe,RP,34.5,,41,5.094,n/a,Closer,1150000
+TBR,Ryan Sherriff,RP,30.9,,56,0.156,3,Middle Reliever,570500
+TBR,Cody Reed,RP,28,,,2.072,0,Middle Reliever,581200
+TBR,Collin McHugh,RP,33.8,,63,6.085,n/a,Long Reliever,1800000
+TBR,Jeffrey Springs,RP,28.5,,38,2.043,3,Long Reliever,585000
+TBR,Yonny Chirinos,SP,27.3,,95,2.137,2,60-Day IL,1175000
+TBR,Colin Poche,RP,27.2,,52,1.114,3,60-Day IL,577800
+TBR,Jalen Beeks,RP,27.7,,44,2.07,2,60-Day IL,588800
+TBR,Oliver Drake,RP,34.2,,41,4.045,0,60-Day IL,775000
+TBR,Nick Anderson,RP,30.7,,34,2,3,60-Day IL,587800
+TBR,Ji-Man Choi,1B,29.9,462,,3.076,0,10-Day IL,2450000
+TBR,Brett Phillips,OF,26.8,161,,2.013,0,10-Day IL,584400
+TEX,Joey Gallo,RF,27.4,637,,4.103,1,Lineup Regular,6200000
+TEX,Isiah Kiner-Falefa,SS,26,630,,3,3,Lineup Regular,2000000
+TEX,Nathaniel Lowe,1B,25.7,630,,0.145,1,Lineup Regular,575000
+TEX,Nick Solak,2B,26.2,532,,1.041,3,Lineup Regular,586000
+TEX,Leody Taveras,CF,22.6,406,,0.114,2,Lineup Regular,570500
+TEX,Jose Trevino,C,28.3,288,,1.055,1,Lineup Regular,584000
+TEX,Eli White,DH,26.8,231,,0.075,3,Lineup Regular,570500
+TEX,David Dahl,LF,27,,,3.162,1,Lineup Regular,2700000
+TEX,Brock Holt,3B,32.8,252,,7.052,n/a,Platoon vs R,1750000
+TEX,Charlie Culberson,OF/INF,32,182,,5.051,n/a,Platoon vs L,1500000
+TEX,Kyle Gibson,SP,33.4,,189,7.039,n/a,Starting Rotation,9666667
+TEX,Dane Dunning,SP,26.3,,154,0.083,2,Starting Rotation,572500
+TEX,Jordan Lyles,SP,30.5,,153,9.002,n/a,Starting Rotation,8000000
+TEX,Mike Foltynewicz,SP,29.5,,126,4.156,n/a,Starting Rotation,2000000
+TEX,Kohei Arihara,SP,28.6,,,0,3,Starting Rotation,2600000
+TEX,Jonah Heim,C,25.8,307,,0.097,2,Bench,574000
+TEX,Ronald Guzmán,1B/OF,26.4,231,,2.083,0,Bench,606000
+TEX,Ian Kennedy,RP,36.3,,63,11.124,n/a,Closer,2150000
+TEX,Matt Bush,RP,35.1,,,2.132,0,Closer,680000
+TEX,Josh Sborz,RP,27.3,,60,0.113,1,Setup Man,570500
+TEX,John King,RP,26.5,,55,0.067,3,Middle Reliever,570500
+TEX,Brett de Geus,RP,23.4,,16,0,3,Middle Reliever,570500
+TEX,Wes Benjamin,RP,27.7,,,0.133,3,Middle Reliever,570500
+TEX,Taylor Hearn,RP,26.6,,140,1.122,2,Long Reliever,582500
+TEX,Kolby Allard,RP,23.6,,83,1.114,2,Long Reliever,584250
+TEX,Kyle Cody,RP,26.6,,,0.108,2,Long Reliever,570500
+TEX,Brett Martin,RP,25.9,,61,1.151,1,10-Day IL,589500
+TEX,Joely Rodríguez,RP,29.4,,56,1.096,0,10-Day IL,2500000
+TEX,Brock Burke,SP,24.7,,44,1.041,2,10-Day IL,570500
+TEX,Demarcus Evans,RP,24.4,,40,0.036,2,10-Day IL,570500
+TEX,Jonathan Hernández,RP,24.7,,38,1.041,1,60-Day IL,587500
+TEX,José Leclerc,RP,27.3,,36,4.041,2,60-Day IL,4500000
+TEX,Willie Calhoun,OF,26.4,539,,2.033,1,10-Day IL,593000
+TEX,Khris Davis,DH,33.3,231,,7.104,n/a,10-Day IL,16750000
+TEX,Sam Huff,C/1B,23.2,39,,0.05,3,10-Day IL,570500
+TOR,Marcus Semien,2B,30.5,679,,6.118,n/a,Lineup Regular,18000000
+TOR,Vladimir Guerrero Jr.,1B,22,665,,1.157,3,Lineup Regular,605400
+TOR,Bo Bichette,SS,23.1,658,,1.063,3,Lineup Regular,587800
+TOR,Teoscar Hernández,RF,28.5,651,,3.097,1,Lineup Regular,4325000
+TOR,Lourdes Gurriel Jr.,LF,27.6,595,,2.094,1,Lineup Regular,3928571
+TOR,Cavan Biggio,3B,26,525,,1.129,3,Lineup Regular,604000
+TOR,Randal Grichuk,CF,29.6,525,,6.033,n/a,Lineup Regular,10333333
+TOR,Danny Jansen,C,26,399,,2.05,2,Lineup Regular,601800
+TOR,Rowdy Tellez,DH,26,427,,2.012,1,Platoon vs R,598100
+TOR,Alejandro Kirk,C,22.4,359,,0.047,3,Platoon vs L,573500
+TOR,Hyun Jin Ryu,SP,34,,180,8,n/a,Starting Rotation,20000000
+TOR,Steven Matz,SP,29.8,,158,5.099,n/a,Starting Rotation,5200000
+TOR,Ross Stripling,SP,31.4,,105,4.115,2,Starting Rotation,3000000
+TOR,Tanner Roark,SP,34.5,,62,7.055,n/a,Starting Rotation,12000000
+TOR,T.J. Zeuch,SP,25.7,,45,0.058,2,Starting Rotation,570500
+TOR,Joe Panik,INF,30.4,203,,6.1,n/a,Bench,1850000
+TOR,Jonathan Davis,OF,28.9,,,1.029,1,Bench,570500
+TOR,Jordan Romano,RP,27.9,,66,1.051,2,Closer,584000
+TOR,Rafael Dolis,RP,33.2,,60,2.101,0,Closer,1500000
+TOR,David Phelps,RP,34.5,,58,8.156,n/a,Closer,1750000
+TOR,Tyler Chatwood,RP,31.3,,56,9.039,n/a,Closer,3000000
+TOR,Ryan Borucki,RP,27,,50,2.088,1,Closer,595200
+TOR,Tim Mayza,RP,29.2,,62,1.156,2,Middle Reliever,600000
+TOR,Julian Merryweather,RP,29.5,,56,0.114,1,Middle Reliever,578400
+TOR,Trent Thornton,RP,27.5,,53,2,3,Middle Reliever,592900
+TOR,Joel Payamps,RP,27,,44,0.064,1,Long Reliever,570500
+TOR,Robbie Ray,SP,29.5,,191,6.007,n/a,10-Day IL,8000000
+TOR,Nate Pearson,SP,24.6,,96,0.169,3,10-Day IL,570500
+TOR,Kirby Yates,RP,34,,60,6.021,n/a,10-Day IL,5500000
+TOR,Thomas Hatch,RP,26.5,,54,1,3,10-Day IL,570500
+TOR,Patrick Murphy,SP/RP,25.8,,53,0.028,1,60-Day IL,570500
+TOR,George Springer,OF,31.5,651,,6.166,n/a,10-Day IL,23666667
+WSN,Trea Turner,SS,27.8,665,,4.135,2,Lineup Regular,13000000
+WSN,Juan Soto,RF,22.4,665,,2.134,3,Lineup Regular,8500000
+WSN,Josh Bell,1B,28.6,658,,4.053,2,Lineup Regular,6350000
+WSN,Kyle Schwarber,LF,28.1,581,,5.086,n/a,Lineup Regular,7000000
+WSN,Josh Harrison,2B,33.7,511,,8.168,n/a,Lineup Regular,1000000
+WSN,Yan Gomes,C,33.7,418,,8.083,n/a,Lineup Regular,6000000
+WSN,Victor Robles,CF,23.9,294,,2.052,2,Lineup Regular,614000
+WSN,Starlin Castro,3B,31,280,,10.15,n/a,Lineup Regular,5703703
+WSN,Max Scherzer,SP,36.7,,180,12.079,n/a,Starting Rotation,42142857
+WSN,Patrick Corbin,SP,31.7,,174,8.105,n/a,Starting Rotation,24416667
+WSN,Stephen Strasburg,SP,32.7,,153,10.118,n/a,Starting Rotation,35000000
+WSN,Jon Lester,SP,37.2,,132,14.075,n/a,Starting Rotation,5000000
+WSN,Joe Ross,SP,27.9,,91,4.018,0,Starting Rotation,1500000
+WSN,Andrew Stevenson,OF,26.8,322,,1.127,1,Bench,570500
+WSN,Ryan Zimmerman,1B,36.5,266,,14.032,n/a,Bench,1000000
+WSN,Jordy Mercer,INF,34.6,182,,7.156,n/a,Bench,1000000
+WSN,Alex Avila,C,34.2,,,11.061,n/a,Bench,1500000
+WSN,Hernán Pérez,INF/OF,30,,,5.1,n/a,Bench,141892
+WSN,Brad Hand,RP,31,,67,7.092,n/a,Closer,10500000
+WSN,Tanner Rainey,RP,28.3,,65,1.158,1,Setup Man,589000
+WSN,Daniel Hudson,RP,34.1,,63,10.106,n/a,Setup Man,6000000
+WSN,Erick Fedde,RP,28.1,,121,2.099,0,Middle Reliever,599200
+WSN,Kyle Finnegan,RP,29.6,,66,1,3,Middle Reliever,582400
+WSN,Wander Suero,RP,29.5,,48,2.123,2,Middle Reliever,600700
+WSN,Luis Avilán,RP,31.7,,30,7.077,n/a,Middle Reliever,950000
+WSN,Austin Voth,RP,28.8,,63,1.127,0,Long Reliever,587700
+WSN,Will Harris,RP,36.6,,56,7.102,n/a,Projected Injured List,8000000
