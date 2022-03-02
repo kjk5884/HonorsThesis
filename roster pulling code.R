@@ -16,6 +16,7 @@
 #get_retrosheet_data(path_to_directory = "~/Sports Analytics Projects/Thesis Research/Retrosheet/2019", 
 #years_to_acquire = 2019)
 
+teamCodes <- read.csv("~/Sports Analytics Projects/Thesis Research/team codes.csv", fileEncoding = 'UTF-8-BOM')
 
 standings <- read.csv("~/Sports Analytics Projects/Thesis Research/standings.csv", fileEncoding = 'UTF-8-BOM')
 roster2012 <- read_csv("~/Sports Analytics Projects/Thesis Research/Retrosheet/2012/download.folder/unzipped/roster2012.csv")
@@ -38,12 +39,25 @@ rosterwSalary <-merge(rosters12to19,serviceTime, by.x = c("nameFirst","nameLast"
 rosterwSalary$Service.Time[is.na(rosterwSalary$Service.Time)] <- 0
 rosterwSalary$Salary[is.na(rosterwSalary$Salary)] <- 500000
 
-roster25salary <- rosterwSalary %>% group_by(team,year) %>% summarize(Payroll = sum(Salary))
+rosterwSalary <- rosterwSalary %>% 
+  group_by(year,team)%>%
+  mutate(rank=rank(desc(Salary),ties.method="min"))
+
+roster25salary <- rosterwSalary %>% filter(rank <= 25) %>% group_by(team,year) %>% summarize(Payroll = sum(Salary))
+
+highDollarTeams <- rosterwSalary %>% filter(Salary >=10000000) %>% group_by(team,year) %>% summarize(tenmilplayers = n())
+roster25salary <- merge(roster25salary,highDollarTeams,by=c("team","year"))
+
 # would like to normalize by 25 highest salaries
 
 roster25salary <- merge(roster25salary,teamCodes,by.x="team", by.y="Abb2")
-roster25salary <- roster25salary[-c(1,5)]
+roster25salary <- roster25salary[-c(1,6)]
 performanceandSalary <- merge(roster25salary,standings, by.x=c("Team","year"),by.y=c("Tm","Year"))
 
 marketSize <- read_csv("~/Sports Analytics Projects/Thesis Research/Market Size.csv")
 performanceandSalary <- merge(performanceandSalary,marketSize,by="Team")
+
+
+
+write.csv(rosterwSalary,"~/Sports Analytics Projects/Thesis Research/rosterwSalary.csv",row.names = FALSE)
+write.csv(performanceandSalary,"~/Sports Analytics Projects/Thesis Research/performanceandSalary.csv", row.names = FALSE)
