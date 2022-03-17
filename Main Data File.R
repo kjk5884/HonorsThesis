@@ -40,8 +40,9 @@ summary(payrollModelLogistic)
 
 # number of high payed players per team - 10 mil threshold (what should the threshold be?)
 # all teams
-ggplot(data=performanceandSalary,aes(x=tenmilplayers,y=W.L.))+geom_point()+
-  geom_smooth(method='lm', formula= y~x)+ 
+ggplot(data=performanceandSalary,aes(x=tenmilplayers,y=W.L.))+geom_point(aes(color=MarketSize))+
+  geom_smooth(method='lm', formula= y~x, aes(color=MarketSize,fill=MarketSize))+ 
+  facet_grid(MarketSize~.)+
   ggtitle("Win Percentage vs. Number of High Paid Players")
 highPaidPlayers <- lm(data=performanceandSalary, Playoffs~Payroll)
 summary(highPaidPlayers)
@@ -53,3 +54,10 @@ ggplot(data=smallMarketData,aes(x=tenmilplayers,y=W.L.))+geom_point()+
   ggtitle("Win Percentage vs. Number of High Paid Players")
 highPaidPlayers <- lm(data=smallMarketData, Playoffs~Payroll)
 summary(highPaidPlayers)
+
+# count proportions by rank until you hit a certain number to do things by proportion
+
+proportions <- merge(rosterwSalary,performanceandSalary,by=c("team","year"),all.x = TRUE)
+proportions$payrollProp <- proportions$Salary / proportions$Payroll
+# created proportion of payroll field for what is taken up by each player - next step
+# create dataframe with number of players that make up half of roster

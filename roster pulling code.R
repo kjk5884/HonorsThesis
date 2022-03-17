@@ -46,17 +46,17 @@ rosterwSalary <- rosterwSalary %>%
 roster25salary <- rosterwSalary %>% filter(rank <= 25) %>% group_by(team,year) %>% summarize(Payroll = sum(Salary))
 
 highDollarTeams <- rosterwSalary %>% filter(Salary >=10000000) %>% group_by(team,year) %>% summarize(tenmilplayers = n())
-roster25salary <- merge(roster25salary,highDollarTeams,by=c("team","year"))
+roster25salary <- merge(roster25salary,highDollarTeams,by=c("team","year"),all.x=TRUE)
 
 # would like to normalize by 25 highest salaries
 
 roster25salary <- merge(roster25salary,teamCodes,by.x="team", by.y="Abb2")
-roster25salary <- roster25salary[-c(1,6)]
+roster25salary <- roster25salary[-c(6)]
 performanceandSalary <- merge(roster25salary,standings, by.x=c("Team","year"),by.y=c("Tm","Year"))
 
 marketSize <- read_csv("~/Sports Analytics Projects/Thesis Research/Market Size.csv")
 performanceandSalary <- merge(performanceandSalary,marketSize,by="Team")
-
+performanceandSalary[is.na(performanceandSalary)] <- 0
 
 
 write.csv(rosterwSalary,"~/Sports Analytics Projects/Thesis Research/rosterwSalary.csv",row.names = FALSE)
