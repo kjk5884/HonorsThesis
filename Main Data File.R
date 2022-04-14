@@ -5,9 +5,6 @@ require(readr)
 library(Lahman)
 library(ggplot2)
 
-teamCodes <- read.csv("~/Sports Analytics Projects/Thesis Research/team codes.csv", fileEncoding = 'UTF-8-BOM')
-
-rosterwSalary <- read.csv("~/Sports Analytics Projects/Thesis Research/rosterwSalary.csv")
 performanceandSalary <- read.csv("~/Sports Analytics Projects/Thesis Research/performanceandSalary.csv")
 
 # Take payroll and divide by 1 million
@@ -55,9 +52,9 @@ ggplot(data=smallMarketData,aes(x=tenmilplayers,y=W.L.))+geom_point()+
 highPaidPlayers <- lm(data=smallMarketData, Playoffs~Payroll)
 summary(highPaidPlayers)
 
-# count proportions by rank until you hit a certain number to do things by proportion
+# move into EDA (exploratory data analysis)
+# create working datasets (remove unnecessary cols)
 
-proportions <- merge(rosterwSalary,performanceandSalary,by=c("team","year"),all.x = TRUE)
-proportions$payrollProp <- proportions$Salary / proportions$Payroll
-# created proportion of payroll field for what is taken up by each player - next step
-# create dataframe with number of players that make up half of roster
+
+# Issues - difficult to develop, incorrect team codes  
+

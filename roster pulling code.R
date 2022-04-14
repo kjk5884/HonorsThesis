@@ -16,6 +16,8 @@
 #get_retrosheet_data(path_to_directory = "~/Sports Analytics Projects/Thesis Research/Retrosheet/2019", 
 #years_to_acquire = 2019)
 
+require(dplyr)
+
 teamCodes <- read.csv("~/Sports Analytics Projects/Thesis Research/team codes.csv", fileEncoding = 'UTF-8-BOM')
 
 standings <- read.csv("~/Sports Analytics Projects/Thesis Research/standings.csv", fileEncoding = 'UTF-8-BOM')
@@ -58,6 +60,44 @@ marketSize <- read_csv("~/Sports Analytics Projects/Thesis Research/Market Size.
 performanceandSalary <- merge(performanceandSalary,marketSize,by="Team")
 performanceandSalary[is.na(performanceandSalary)] <- 0
 
+proportions <- merge(rosterwSalary,performanceandSalary,by=c("team","year"),all.x = TRUE)
+proportions$payrollProp <- proportions$Salary / proportions$Payroll
+
+
+# created proportion of payroll field for what is taken up by each player - next step
+# create dataframe with number of players that make up half of roster
+
+# need to group by team/year, group by proportion col in descending order, tell r to start
+# summing until sum exceeds 0.5 (or remains less than), count how many rows it took
+
+
+proportions <- proportions[order(proportions$team,proportions$year,-proportions$payrollProp),]
+
+years <- c(2012:2019)
+runningTotal = 0
+count = 0
+playersto50 <- data.frame(matrix(ncol = 3, nrow = 0))
+for (abb in teamCodes$Abb2){ # for each team in the league
+  for (yearNum in years){ # for each year
+    tempFile <- filter(proportions, team==abb,year==yearNum) # filter for the team and year
+    for (val in tempFile$payrollProp){ # take a running total of the payroll percentage
+      if (runningTotal<0.5){ # until it reaches 50%
+        runningTotal = runningTotal + val
+        count = count + 1
+      } 
+    }
+    #print(c(abb,yearNum,count))
+    playersto50 <- rbind(playersto50,c(abb,yearNum,count))
+    count=0
+    runningTotal=0
+  }
+}
+colnames(playersto50) <- c('team', 'year', 'playersto50')
+performanceandSalary <- merge(performanceandSalary,playersto50,by=c("team","year"))
+
+rosterwSalary <-rosterwSalary[-(6:25)]
+rosterwSalary <-rosterwSalary[-(1:2)]
 
 write.csv(rosterwSalary,"~/Sports Analytics Projects/Thesis Research/rosterwSalary.csv",row.names = FALSE)
 write.csv(performanceandSalary,"~/Sports Analytics Projects/Thesis Research/performanceandSalary.csv", row.names = FALSE)
+
